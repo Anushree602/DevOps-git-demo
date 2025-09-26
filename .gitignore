@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Node.js
+node_modules/
+
+# Terraform
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# IDEs
+.vscode/
+.idea/
+
